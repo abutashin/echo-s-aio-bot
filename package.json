@@ -1,0 +1,32 @@
+{
+  "name": "echobot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x",
+    "npm": "6.x"
+  },
+  "author": "Echo",
+  "license": "ISC",
+  "dependencies": {
+    "@anonymousg/lavajs": "^3.1.0",
+    "@discordjs/opus": "^0.3.2",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0",
+    "erela.js": "^1.1.8",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.4",
+    "milsymbol": "^2.0.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "opusscript": "0.0.7",
+    "request": "^2.88.2",
+    "shoukaku": "^1.4.2",
+    "ytdl-core": "^2.1.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
