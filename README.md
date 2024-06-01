@@ -1,2 +1,2 @@
 # echo-bot
- some bot
+ A Bot for discord
